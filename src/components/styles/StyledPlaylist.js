@@ -10,7 +10,7 @@ const StyledPlaylist = styled.div`
   padding-top:50px;
   padding-bottom: 36%; */
 
-  @media screen and (max-width: 1400px) {
+  @media screen and (max-width: 1080px) {
     width: 100%;
     display: block;
   }
